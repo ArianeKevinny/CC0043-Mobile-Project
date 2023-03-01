@@ -1,20 +1,21 @@
 # CC0043-Mobile-Project
 
-Crie o repositório do seu projeto no github ou equivalente. Escreva um documento em MarkDown contendo os tópicos abaixo e faça o commit. 
+**APP: Rachim**
 
-1. Equipe: 
+1. Equipe:
+
 - Matheus Yago Ferreira da Silva
 - Ariane Kevinny M Ribeiro
 - José Vinícius Alves Pontes
 - Raphael Pinheiro dos Santos
 
-2. Projeto escolhido:
+2. Projeto escolhido: **Rachim**
 
-3: Descrição breve do tema
+3. Descrição breve do tema: Sistema Mobile para gerênciamento de rachas (Def.: Partidas recreativas de futebol) 
 
-4: Descrição breve das funcionalidades
+4. Descrição breve das funcionalidades: *A definir*
 
-5: Divisão de tarefas
+5. Divisão de tarefas: *A definir*
 
 Matheus Yago Ferreira da Silva
 - [ ] Test
@@ -22,7 +23,7 @@ Matheus Yago Ferreira da Silva
 - [ ] Test
 
 Ariane Kevinny M Ribeiro
-- [ ] Test
+- [ ] Documentar e formalizar o aplicativo
 - [ ] Test 
 - [ ] Test
 
@@ -36,7 +37,7 @@ Raphael Pinheiro dos Santos
 - [ ] Test 
 - [ ] Test
 
-6. Cronograma de atividades:
+6. Cronograma de atividades: *A definir*
 
 |   |   |   |   |   |
 |---|---|---|---|---|
