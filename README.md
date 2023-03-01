@@ -1,6 +1,6 @@
 # CC0043-Mobile-Project
 
-**APP: Rachim**
+### **APP: Rachim**
 
 1. Equipe:
 
