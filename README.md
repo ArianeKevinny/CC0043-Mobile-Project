@@ -2,22 +2,29 @@
 
 Crie o repositório do seu projeto no github ou equivalente. Escreva um documento em MarkDown contendo os tópicos abaixo e faça o commit. 
 
-Equipe: 
+1. Equipe: 
 - Matheus Yago Ferreira da Silva
 - Ariane Kevinny M Ribeiro
 - José Vinícius Alves Pontes
 - Raphael Pinheiro dos Santos
 
-Projeto escolhido
+2. Projeto escolhido:
 
-Descrição breve do tema
+3: Descrição breve do tema
 
-Descrição breve das funcionalidades
+4: Descrição breve das funcionalidades
 
-Divisão de tarefas
+5: Divisão de tarefas
 
-Cronograma de atividades
+Matheus Yago Ferreira da Silva: 
+Ariane Kevinny M Ribeiro: 
+José Vinícius Alves Pontes: 
+Raphael Pinheiro dos Santos: 
 
-Cole também o link do google docs, com o template abaixo preenchido, compartilhado publicamente.
+6. Cronograma de atividades:
 
-Submeta o link do arquivo criado na Atividade 2.
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
