@@ -16,10 +16,25 @@ Crie o repositório do seu projeto no github ou equivalente. Escreva um document
 
 5: Divisão de tarefas
 
-Matheus Yago Ferreira da Silva: 
-Ariane Kevinny M Ribeiro: 
-José Vinícius Alves Pontes: 
-Raphael Pinheiro dos Santos: 
+Matheus Yago Ferreira da Silva
+- [ ] Test
+- [ ] Test 
+- [ ] Test
+
+Ariane Kevinny M Ribeiro
+- [ ] Test
+- [ ] Test 
+- [ ] Test
+
+José Vinícius Alves Pontes
+- [ ] Test
+- [ ] Test 
+- [ ] Test
+
+Raphael Pinheiro dos Santos
+- [ ] Test
+- [ ] Test 
+- [ ] Test
 
 6. Cronograma de atividades:
 
