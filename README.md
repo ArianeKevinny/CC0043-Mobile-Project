@@ -11,7 +11,7 @@
 
 2. Projeto escolhido: **Rachim**
 
-3. Descrição breve do tema: Sistema Mobile para gerênciamento de rachas (Def.: Partidas recreativas de futebol) 
+3. Descrição breve do tema: Sistema Mobile para gerenciamento de rachas (Def.: Partidas recreativas de futebol) 
 
 4. Descrição breve das funcionalidades: *A definir*
 
@@ -39,8 +39,10 @@ Raphael Pinheiro dos Santos
 
 6. Cronograma de atividades: *A definir*
 
-|   |   |   |   |   |
+| Data  do Início | Data do Fim Previsto | Quantidade de Dias | Nome da atividade | Status da Atividade |
 |---|---|---|---|---|
+| 01-03-2023  | 06-03-2023 | 5 | Planejamento do projeto mobile | Em progresso |
 |   |   |   |   |   |
 |   |   |   |   |   |
-|   |   |   |   |   |
+
+7. Proposta Comercial - Google Docs link: https://docs.google.com/document/d/1X5mvzm26DxTY4A2L4t488DvctEE_E3wPETaN-rCGydI/edit?usp=sharing 
