@@ -14,6 +14,10 @@
 3. Descrição breve do tema: Sistema Mobile para gerenciamento de rachas (Def.: Partidas recreativas de futebol) 
 
 4. Descrição breve das funcionalidades: *A definir*
+   .Sorteador de equipe
+      *(Informa o nome dos jogadores e são sorteados aleatoriamente em times, o jogador que ficar de fora é definido como reserva.)
+   .Acompanhamento de partida
+      *(Realiza a contagem de pontos de cada equipe junto com um cronometro.)
 
 5. Divisão de tarefas: *A definir*
 
