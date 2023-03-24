@@ -10,7 +10,7 @@
     - Não devem ser chamados em loops, condições ou funções aninhadas (funções em funções).
  - Não use Hooks dentro de funções JavaScript/TypeScript comuns
  
- É possivel construiur nosso próprio Hook, mas para exemplifica usamos um dos hooks internos.
+ É possivel construir nosso próprio Hook, mas para exemplificar usamos um dos hooks internos.
  
  #### Hook useState
  
@@ -23,7 +23,7 @@
 
 ## Evento
 
-Os Eventos são Código Javascript passados dentro de um manipulador de evento
+Os Eventos são Códigos Javascript passados dentro de um manipulador de evento
 
 #### Como é cirado o evento
 
