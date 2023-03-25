@@ -59,3 +59,57 @@ Um código Javascript passados dentro de um manipulador de evento
 
 
 ## Tela de autenticação utilizando Hook e Eventos 
+```javascript
+import React, { useState } from 'react';
+import {
+  Text,
+  View,
+  StyleSheet,
+  TouchableOpacity,
+  TextInput,
+} from 'react-native';
+
+export default function App() {
+  const [username, setUsername] = useState(''); 
+  const [password, setPassword] = useState(''); //Hooks
+  const [loginInfo, setLoginInfo] = useState('');
+
+  function verifyLogin() {
+    if (username === 'mobile' && password === 'JavaScript23') {
+      setLoginInfo('Login Autorizado');
+      return;
+    }
+    setLoginInfo('Login Inválido');
+  }
+
+  return (
+    <View style={styles.container}>
+      <Text style={styles.text} >Usuário:</Text>
+      <TextInput
+        placeholder="Informe seu usuário"
+        defaultValue={username}
+        onChangeText={setUsername}  //Evento
+        style={styles.input}
+      />
+
+      <Text style={styles.text} >Senha:</Text>
+      <TextInput
+        placeholder="Informe sua senha"
+        defaultValue={password}
+        onChangeText={setPassword} 
+        secureTextEntry={true}
+        style={styles.input}
+      />
+
+      <TouchableOpacity 
+        onPress={verifyLogin()} //Evento
+        style={styles.button}
+        >
+        <Text>Login</Text>
+      </TouchableOpacity>
+
+      <Text style={styles.text} >{loginInfo}</Text>
+    </View>
+  );
+}
+```
