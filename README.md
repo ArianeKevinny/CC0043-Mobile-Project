@@ -48,7 +48,7 @@ Matheus Yago Ferreira da Silva
 
 Ariane Kevinny M Ribeiro
 - [ ] Documentar e formalizar o aplicativo
-- [ ] Test 
+- [ ] Criar conexões com o DB 
 - [ ] Test
 
 José Vinícius Alves Pontes
