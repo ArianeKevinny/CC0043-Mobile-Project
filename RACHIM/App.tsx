@@ -1,16 +1,19 @@
-import React from 'react';
+import * as React from 'react'; 
+import { useState, useEffect } from 'react';
 import {createNativeStackNavigator} from '@react-navigation/native-stack';
 import {NavigationContainer} from '@react-navigation/native';
 import auth from '@react-native-firebase/auth'
 import { View, Text } from '@react-native'
+
+//Telas
 import Home from './src/Screens/home';
 import LoginScreen from './src/Screens/loginScreen';
 
 const Stack = createNativeStackNavigator();
 
 function App(): JSX.Element {
+  
   //Configurando a autenticação utilizando o módulo auth do FireBase 
-
   //'Setando' os estados iniciais com conexões Firebase
   
   const [initializing, setInitializing] = useState(true);
@@ -41,14 +44,12 @@ function App(): JSX.Element {
     <View>
       <Text>Bem Vindo, {user.email}</Text>
     </View>
-
     <NavigationContainer>
       <Stack.Navigator>
         <Stack.Screen
           name="Home"
-          options={{title: 'Principal'}}
-          component={Home}
-        />
+          options={{ title: 'Principal' }}
+          component={Home} />
         <Stack.Screen name="Login" component={LoginScreen} />
       </Stack.Navigator>
     </NavigationContainer>
