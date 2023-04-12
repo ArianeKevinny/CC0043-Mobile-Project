@@ -48,24 +48,24 @@ Matheus Yago Ferreira da Silva
 
 Ariane Kevinny M Ribeiro
 - [ ] Documentar e formalizar o aplicativo
-- [ ] Criar conexões com o DB 
-- [ ] Test
+- [ ] Criar conexões com os Bancos de Dados 
+- [ ] test
 
 José Vinícius Alves Pontes
-- [ ] Test
-- [ ] Test 
+- [ ] Planejamento das telas de navegação do APP
+- [ ] Desenvolvimento Front-End do RACHIM 
 - [ ] Test
 
 Raphael Pinheiro dos Santos
-- [ ] Test
-- [ ] Test 
+- [ ] Planejamento das telas de navegação do APP
+- [ ] Desenvolvimento Front-End do RACHIM
 - [ ] Test
 
 6. Cronograma de atividades: *A definir*
 
 | Data  do Início | Data do Fim Previsto | Quantidade de Dias | Nome da atividade | Status da Atividade | Descrição |
 |---|---|---|---|---|---|
-| 01-03-2023  | 06-03-2023 | 5 | Planejamento do projeto mobile | Em progresso | Tempo dedicado ao detalhamento do produto (Rachim) e planejamento das ações | 
+| 01-03-2023  | 06-03-2023 | 5 | Planejamento do projeto mobile | Finalizado | Tempo dedicado ao detalhamento do produto (Rachim) e planejamento das ações | 
 |   |   |   |   |   |   |   |
 | 06-03-2023 | 21-03-2023 | 15 | Primeira funcionalidade | Em progresso | Dedicação a primeira funcionalidade |   |
 |   |   |   |   |   |   |   |
