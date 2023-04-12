@@ -25,7 +25,7 @@
 
 Os Eventos são Códigos Javascript passados dentro de um manipulador de evento
 
-#### Como é cirado o evento
+#### Como é criado o evento
 
 Um código Javascript passados dentro de um manipulador de evento
 
