@@ -1,34 +1,33 @@
 {
   "project_info": {
-    "project_number": "839004307965",
-    "firebase_url": "https://rachim-5009d-default-rtdb.firebaseio.com",
-    "project_id": "rachim-5009d",
-    "storage_bucket": "rachim-5009d.appspot.com"
+    "project_number": "1014992286129",
+    "project_id": "rachim-7d1d0",
+    "storage_bucket": "rachim-7d1d0.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:839004307965:android:80c80bba1949a0ec8ed994",
+        "mobilesdk_app_id": "1:1014992286129:android:90b5795a8e65fac28a0d90",
         "android_client_info": {
           "package_name": "com.rachim"
         }
       },
       "oauth_client": [
         {
-          "client_id": "839004307965-jdp0vs1q6n77k1u849p3493vcubs1ta3.apps.googleusercontent.com",
+          "client_id": "1014992286129-7hhaiubi6fafmcrsn5400qapcbd9q6dv.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBFU3AR929Cuq4imQ-ovukZfzzeijIWv1Q"
+          "current_key": "AIzaSyDpk2MNTMp6JFStXo4ZmfbvaGJ93EwO_dA"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "839004307965-jdp0vs1q6n77k1u849p3493vcubs1ta3.apps.googleusercontent.com",
+              "client_id": "1014992286129-7hhaiubi6fafmcrsn5400qapcbd9q6dv.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
