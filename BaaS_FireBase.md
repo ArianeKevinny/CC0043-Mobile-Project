@@ -41,6 +41,7 @@ apply plugin: 'com.google.gms.google-services' // <- Add this line
 ```
 npx react-native run-android
 ```
+
 ## Principais Operações
 
 - Login (Email/Senha)
@@ -64,6 +65,7 @@ auth()
     console.error(error);
   });
   ```
+
 - SignOut
 ```
 import auth from '@react-native-firebase/auth';
@@ -72,6 +74,7 @@ auth()
   .signOut()
   .then(() => console.log('User signed out!'));
 ```
+
 - Armazenamento em nuvem
 ```
 import storage from '@react-native-firebase/storage';
@@ -101,9 +104,11 @@ function App() {
   );
 }
 ```
+
 - Banco de Dados
 
 Leitura de dados:
+
 ```
 import database from '@react-native-firebase/database';
 
@@ -124,9 +129,11 @@ database()
     age: 32,
   })
   .then(() => console.log('Data updated.'));
+
 ```
 Apagar dados:
 ```
+
 await database().ref('/users/123').remove();
 ```
 
