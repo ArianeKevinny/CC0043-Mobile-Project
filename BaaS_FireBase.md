@@ -2,7 +2,8 @@
 
 ## Compatilibidade com react native
 
-Text
+- O FireBase possui compatibilidade com react native e oferece varias funcionalidades para projetos como ferramentas de login e funcionalidades WEB.
+- O FireBase funciona em nuvem, não sendo necessario uma instalação na maquina local.  
 
 ## Instalação
 
