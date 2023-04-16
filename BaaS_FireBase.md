@@ -1,14 +1,14 @@
 # FireBase
 
-## O que é o FireBase?
+## Compatilibidade com react native
 
 Text
 
-## Por que usar Firebase no projeto RACHIM App?
+## Instalação
 
 Text
 
-### Principais Vantagens
+### Principais Operações
 
 - List
 - List
