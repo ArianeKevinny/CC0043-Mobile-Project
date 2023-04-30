@@ -85,3 +85,6 @@ Raphael Pinheiro dos Santos
 
 
 7. Proposta Comercial - Google Docs link: https://docs.google.com/document/d/1X5mvzm26DxTY4A2L4t488DvctEE_E3wPETaN-rCGydI/edit?usp=sharing 
+
+8. Planejamento BackEnd
+https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Diagramas#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FArianeKevinny%2FCC0043-Mobile-Project%2Fmain%2FDiagramas
