@@ -14,32 +14,36 @@
 3. Descrição breve do tema: Sistema Mobile para gerenciamento de rachas (Def.: Partidas recreativas de futebol) 
 
 4. Descrição breve das funcionalidades:
- 
-   * Gerenciador de equipes:
 
-      * Registra time pre formados com suas posiçoes.
- 
-   * Sorteador de equipes:
-   
-      * Informa o nome dos jogadores e são sorteados aleatoriamente em times, o jogador que ficar de fora é definido como reserva.
-      
-   * Acompanhamento de partida:
-   
-      * Realiza a contagem de pontos de cada equipe junto com um cronometro.
-      
    * Agendamento de rachas:
    
       * Define datas para rachas criados anteriormente
-      
-   * Gerenciamento de campeonatos:
+ 
+   * Sorteador de equipes para rachas:
    
-      * Gerenciamento de varias partidas com ranking baseado em vitorias.
+      * Informa o nome dos jogadores e são sorteados aleatoriamente em times, o jogador que ficar de fora é definido como reserva.
+          
+   * Gerenciador de equipes:
+
+      * Registra time pré formados.
+ 
+   * Criação de partidas:
+   
+      * Criação de partidas com times pré formados.
+   
+   * Acompanhamento de partida:
+   
+      * Realiza a contagem de pontos de cada equipe junto com um cronometro.
+
+   * Acompanhamento de rachas:
+   
+      * Realiza a contagem de pontos de cada equipe junto com um cronometro.
 
    * Ranking geral de melhor time:
 
-      * Informa o time com maior pontuação dentre todas as partidas.
+      * Informa o time com maior pontuação dentre todas as partidas,  baseado em vitorias..
 
-5. Divisão de tarefas: *A definir*
+5. Divisão de tarefas:
 
 Matheus Yago Ferreira da Silva
 - [ ] Test
@@ -49,7 +53,7 @@ Matheus Yago Ferreira da Silva
 Ariane Kevinny M Ribeiro
 - [ ] Documentar e formalizar o aplicativo
 - [ ] Criar conexões com os Bancos de Dados 
-- [ ] test
+- [ ] Desenvolvimento Back-End do Rachim
 
 José Vinícius Alves Pontes
 - [ ] Planejamento das telas de navegação do APP
