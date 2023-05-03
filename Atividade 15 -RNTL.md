@@ -83,6 +83,14 @@ describe('MyList', () => {
 ```
   Esse teste verifica se o componente renderiza corretamente uma lista de itens passados como propriedade. Ele também testa a interação entre o componente MyList e o componente de lista <View>. Note que a biblioteca de testes usada é a mesma usada em testes unitários para React, porém é necessário utilizar a versão específica para o React Native, que os suporta
  
- **Como instalar a biblioteca *React Native Testing Library* **
+ **Como instalar a biblioteca React Native Testing Library:**
+ 
+ 1.Abra o terminal e navegue até o diretório do seu projeto React Native.
+
+ 2.Execute o seguinte comando para instalar a biblioteca:
+
+```j-
+ npm install --save-dev @testing-library/react-native
+```
 ```j-
 ```
