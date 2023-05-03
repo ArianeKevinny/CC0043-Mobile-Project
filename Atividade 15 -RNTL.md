@@ -1,4 +1,4 @@
-  #**O que é um teste automatizado?:**<h1>
+  #**O que é um teste automatizado?:** <h1>
   
   Um teste automatizado é um tipo de teste que é executado automaticamente por um software, sem a necessidade de intervenção manual. Em outras palavras, é um processo de teste que utiliza ferramentas e scripts para verificar se um software está funcionando corretamente, sem a necessidade de um ser humano interagir com a aplicação.
 
