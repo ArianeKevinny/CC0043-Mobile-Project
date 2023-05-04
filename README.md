@@ -67,28 +67,16 @@ Raphael Pinheiro dos Santos
 
 6. Cronograma de atividades: *A definir*
 
-| Data  do Início | Data do Fim Previsto | Quantidade de Dias | Nome da atividade | Status da Atividade | Descrição |
-|---|---|---|---|---|---|
-| 01-03-2023  | 06-03-2023 | 5 | Planejamento do projeto mobile | Finalizado | Tempo dedicado ao detalhamento do produto (Rachim) e planejamento das ações | 
-|   |   |   |   |   |   |   |
-| 06-03-2023 | 21-03-2023 | 15 | Primeira funcionalidade | Em progresso | Dedicação a primeira funcionalidade |   |
-|   |   |   |   |   |   |   |
-| 21-03-2023 | 05-04-2023 | 15 | Segunda funcionalidade | Em progresso | Dedicação a segunda funcionalidade |   |
-|   |   |   |   |   |   |   |
-| 05-04-2023 | 20-04-2023 | 15 | Terceira funcionalidade | Em progresso | Dedicação a terceira funcionalidade |   |
-|   |   |   |   |   |   |   |
-| 20-04-2023 | 04-05-2023 | 15 | Quarta funcionalidade | Em progresso | Dedicação a Quarta funcionalidade |   |
-|   |   |   |   |   |   |   |
-| 04-05-2023 | 18-05-2023 | 15 | Quinta funcionalidade | Em progresso | Dedicação a Quinta funcionalidade |   |
-|   |   |   |   |   |   |   |
-| 18-05-2023 | 01-06-2023 | 15 | Sexta funcionalidade | Em progresso | Dedicação a sexta funcionalidade |   |
-|   |   |   |   |   |   |   |
-| 01-06-2023 | 14-06-2023 | 14 | Aprimoramento visual | Em progresso | Dedicação ao aprimoramento visual |   |
-|   |   |   |   |   |   |   |
-| 06-03-2023 | 14-06-2023 |  100 | Projeto completo   | Em progresso   |   Tempo dedicado a todo o projeto |   |
+| Data  do Início | Data do Fim Previsto | Quantidade de Dias | Nome da atividade | Status da Atividade |
+|---|---|---|---|---|
+| 01-03-2023 | 21-03-2023 | 20 | Planejamento e Estudos relacionados à aplicação | Finalizado |
+| 21-03-2023 | 05-04-2023 | 15 | Período dedicado a criação das funcionalidades de autenticação e planejamento da parte visual. | Finalizado |
+| 05-04-2023 | 04-05-2023 | 30 | Período dedicado a implementação back-end das funcionalidades propostas e criação de telas. | Em progresso | 
+| 04-05-2023 | 18-05-2023 | 15 | Finalização da versão 0.5 com às devidas realizações de teste de uso | Pendente |
+| 18-05-2023 | 14-06-2023 | 19 | Aprimorização visual e finalização da versão final | Pendente | 
+| 06-03-2023 | 14-06-2023 | 100 | Projeto completo | Em progresso |
 
-
-7. Proposta Comercial - Google Docs link: https://docs.google.com/document/d/1X5mvzm26DxTY4A2L4t488DvctEE_E3wPETaN-rCGydI/edit?usp=sharing 
+7. Proposta Comercial: Disponivel em github.com/ArianeKevinny/CC0043-Mobile-Project/Documentação/
 
 8. Planejamento BackEnd
 https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Diagramas#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FArianeKevinny%2FCC0043-Mobile-Project%2Fmain%2FDiagramas
