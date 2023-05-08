@@ -1,4 +1,4 @@
-  **O que é um teste automatizado?:**
+  ## O que é um teste automatizado?
   
   Um teste automatizado é um tipo de teste que é executado automaticamente por um software, sem a necessidade de intervenção manual. Em outras palavras, é um processo de teste que utiliza ferramentas e scripts para verificar se um software está funcionando corretamente, sem a necessidade de um ser humano interagir com a aplicação.
 
@@ -10,7 +10,7 @@
   
   Em aplicações React, existem diversos tipos de testes automatizados que podem ser aplicados em aplicações React Native. Abaixo, vou explicar dois tipos de testes que são comuns em aplicações React Native: testes unitários e testes de integração.
 
-  **Testes unitários:**
+  ## Testes unitários:
 
   Os testes unitários são usados para testar pequenas partes do código de forma isolada. Em aplicações React Native, isso pode ser feito testando componentes individuais. Para exemplificar, suponha que temos o seguinte componente:
 
@@ -40,7 +40,7 @@ describe('MyComponent', () => {
 
   Esse teste verifica se o componente renderiza corretamente o nome passado como propriedade.
 
-  **Testes de integração:**
+  ## Testes de integração:
 
   Os testes de integração são usados para testar a interação entre diferentes partes da aplicação, em vez de testar uma parte específica do código de forma isolada. Em aplicações React Native, isso pode ser feito testando a interação entre diferentes componentes. Para exemplificar, suponha que temos o seguinte componente que renderiza uma lista de itens:
   
@@ -83,7 +83,7 @@ describe('MyList', () => {
 ```
   Esse teste verifica se o componente renderiza corretamente uma lista de itens passados como propriedade. Ele também testa a interação entre o componente MyList e o componente de lista <View>. Note que a biblioteca de testes usada é a mesma usada em testes unitários para React, porém é necessário utilizar a versão específica para o React Native, que os suporta
  
- **Como instalar a biblioteca React Native Testing Library:**
+ ## Como instalar a biblioteca React Native Testing Library:
  
  1.Abra o terminal e navegue até o diretório do seu projeto React Native.
 
