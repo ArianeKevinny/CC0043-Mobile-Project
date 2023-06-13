@@ -46,9 +46,9 @@
 5. Divisão de tarefas:
 
 Matheus Yago Ferreira da Silva
-- [ ] Test
-- [ ] Test 
-- [ ] Test
+- [ ] Desenvolvimento Back-End do Rachim
+- [ ] criação de apresentações sobre o APP 
+- [ ] Testar o APP
 
 Ariane Kevinny M Ribeiro
 - [ ] Documentar e formalizar o aplicativo
@@ -57,13 +57,11 @@ Ariane Kevinny M Ribeiro
 
 José Vinícius Alves Pontes
 - [ ] Planejamento das telas de navegação do APP
-- [ ] Desenvolvimento Front-End do RACHIM 
-- [ ] Test
+- [ ] Desenvolvimento Front-End do RACHIM
 
 Raphael Pinheiro dos Santos
 - [ ] Planejamento das telas de navegação do APP
 - [ ] Desenvolvimento Front-End do RACHIM
-- [ ] Test
 
 6. Cronograma de atividades: *A definir*
 
@@ -71,12 +69,14 @@ Raphael Pinheiro dos Santos
 |---|---|---|---|---|
 | 01-03-2023 | 21-03-2023 | 20 | Planejamento e Estudos relacionados à aplicação | Finalizado |
 | 21-03-2023 | 05-04-2023 | 15 | Período dedicado a criação das funcionalidades de autenticação e planejamento da parte visual. | Finalizado |
-| 05-04-2023 | 04-05-2023 | 30 | Período dedicado a implementação back-end das funcionalidades propostas e criação de telas. | Em progresso | 
-| 04-05-2023 | 18-05-2023 | 15 | Finalização da versão 0.5 com às devidas realizações de teste de uso | Pendente |
-| 18-05-2023 | 14-06-2023 | 19 | Aprimorização visual e finalização da versão final | Pendente | 
-| 06-03-2023 | 14-06-2023 | 100 | Projeto completo | Em progresso |
+| 05-04-2023 | 04-05-2023 | 30 | Período dedicado a implementação back-end das funcionalidades propostas e criação de telas. | Finalizado | 
+| 04-05-2023 | 18-05-2023 | 15 | Finalização da versão 0.5 com às devidas realizações de teste de uso | Finalizado |
+| 18-05-2023 | 14-06-2023 | 19 | Aprimorização visual e finalização da versão final | Finalizado | 
+| 06-03-2023 | 14-06-2023 | 100 | Projeto completo | Finalizado |
 
-7. Proposta Comercial: Disponivel em github.com/ArianeKevinny/CC0043-Mobile-Project/Documentação/
+7. Proposta Comercial e Documentações: Disponivel em github.com/ArianeKevinny/CC0043-Mobile-Project/Documentação/
 
 8. Planejamento BackEnd
 https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Diagramas#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FArianeKevinny%2FCC0043-Mobile-Project%2Fmain%2FDiagramas
+
+9. Repositório do app: https://github.com/ArianeKevinny/RACHIM
